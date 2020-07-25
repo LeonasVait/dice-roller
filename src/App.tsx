@@ -1,7 +1,8 @@
 import React from "react";
+import { GameScreen } from "./components/GameScreen";
 
 function App() {
-  return <h1>HELLO REACT</h1>;
+  return <GameScreen></GameScreen>;
 }
 
 export default App;
